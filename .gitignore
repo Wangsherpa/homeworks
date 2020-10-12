@@ -1,0 +1,4 @@
+#ignore data files and checkpoints
+/data
+*.ipynb_checkpoints
+
