@@ -1,4 +1,0 @@
-#ignore data files and checkpoints
-/Homework-3/data/*
-*.ipynb_checkpoints
-
